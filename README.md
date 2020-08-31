@@ -1,5 +1,5 @@
-# BigQuerySQL 
- bigQuerySQL.py - скрипт парсинга данных с web-сервиса [BigQuery](https://bigquery.cloud.google.com). Скрипт собирает данные с помощью модуля [Selenium](https://selenium-python.readthedocs.io/). 
+# bigQueryParser 
+ bigQueryParser- скрипт парсинга данных с web-сервиса [BigQuery](https://bigquery.cloud.google.com). Скрипт собирает данные с помощью модуля [Selenium](https://selenium-python.readthedocs.io/). 
 
  Работает следующим образом:
  - открывает браузер на странице сервиса
